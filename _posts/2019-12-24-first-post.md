@@ -1,10 +1,5 @@
 ---
 layout: post
-published: true
-title: first-post
----
----
-layout: post
 title: First post
 subtitle: Every big thing is created with small things
 bigimg: /img/path.jpg
