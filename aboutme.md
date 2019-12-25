@@ -19,8 +19,7 @@ The purpose of this blog is to document my researches and readings.
 *   Fuzzing JavaScript Engines
 *   Android Malware Analysis
 *   Android Application Security Testing
-*   Web Application Security Testing
-*   Bug Bounty
+*   Android Phone Security
 
 # Projects I have worked on as a sophomore:
 
@@ -40,12 +39,14 @@ Research and implementing attack vectors to exploit software vulnerabilities. Vu
 Analyze the effectiveness of RETGUARD and kernel hardening methods in openBSD. Successfully bypassed the latest mitigation by use of unremovable implicit gadgets in randomized libc.  
 —Dr. Claudia Eckert, Chair IT Security, TUM, Germany
 
-These were the beginner friendly projects I did apart from taking part in CTFs, later on moved to reading researching new techniques in android malwares, android & web application testing and fuzzing softwares for 0-days.
+These were the beginner friendly projects I did apart from taking part in CTFs, later on moved to reading & researching new techniques in android security. 
+
+When am not hacking applications, I read books usually from business, philosophy, neuroscience & technology genres. I am greatly excited to compile my readings on a blog because I can squeeze the crispy content off the book into a blog and refer it in future when I get older. 
 
 My experience at Technical University of Munich, Germany as a Semester Exchange student was of great importance in motivating me to gain a broad knowledge of Security. A special thanks to [Julian Kirsch](https://kirschju.re/), my mentor at TUM and a member of the [HXP](https://hxp.io/blog/) team.
 
 Then I joined twitter to find a wonderful community sharing their experience, researches, findings. Thanks [@0xabc](https://twitter.com/0xabc0), [@logicbomb_1](https://twitter.com/logicbomb_1), [@LibraAnalysis](https://twitter.com/LibraAnalysis).
 
-Since am working at [Payatu](https://payatu.com/) Technologies as Security Researcher, I will publish blogposts every weekend on my personal research work and findings.
+Since am working at [Payatu](https://payatu.com/) Technologies as Security Researcher, I plan to publish blogposts every weekend on my personal research work and book reading.
 
 Happy reading and Happy hacking :)
