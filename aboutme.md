@@ -10,7 +10,7 @@ published: true
 I’m an undergraduate student in the Computer Science department at IIT Roorkee.  
 Inspired by [Jay Bosamiya](https://www.jaybosamiya.com/) and [Dhaval Kapil](https://dhavalkapil.com/), I started exploring Information Security as a freshman and have ever since been learning and researching various fields within it.
 
-To know about my academic and career information, have a look at my CV right [here](https://github.com/h3rcul35/h3rcul35.github.io/resources/Aazim_CV.pdf)
+To know about my academic and career information, have a look at my CV right [here](https://github.com/h3rcul35/h3rcul35.github.io/blob/master/resources/Aazim_CV%20.pdf)
 
 The purpose of this blog is to document my researches and readings.
 
