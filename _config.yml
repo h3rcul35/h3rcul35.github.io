@@ -22,8 +22,7 @@ description: Professional and Personal blog
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Android Security papers: "https://github.com/h3rcul35/Android-security-papers"
   Author's home: "https://h3rcul35.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -144,7 +143,7 @@ staticman:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 1000
+excerpt_length: 500
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
