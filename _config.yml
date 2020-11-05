@@ -22,7 +22,7 @@ description: Professional and Personal blog
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Android Security papers: "https://github.com/h3rcul35/"
+    - Android Security papers: "https://github.com/h3rcul35/Android-security-papers"
   Categories: "https://h3rcul35.github.io/tags/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
